@@ -127,7 +127,9 @@ def DES_encryption_box(message1,message2,keyList):
     
 
 def DES_decryption_box(emessage1,emessage2,keyList):
-    
+       
+#Initial permutation and Final permutation for message in DES are not implemented.
+
     c1 = emessage1
     c2 = emessage2
     
