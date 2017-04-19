@@ -1,3 +1,6 @@
+#This code takes the text message from message.txt, encrypts it and stores the encrypted message in encryptedFile.txt 
+#Further it takes the encrypted message from encryptedFile.txt and decrypts it and stores the decrypted message to decryptedFile.txt
+
 import numpy as np
 import bitarray
 
